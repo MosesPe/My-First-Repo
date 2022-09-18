@@ -1,2 +1,2 @@
-# My-First-Repo
-My First git Repository
+# Hi, my name is Moshe,
+I am currently learning JS programming 💻
